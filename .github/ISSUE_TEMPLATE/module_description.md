@@ -1,5 +1,5 @@
 ---
-name: Module_Description
+name: Bug report template
 about: Short description of bug
 title: "[Bug# Version]"
 labels: bug
