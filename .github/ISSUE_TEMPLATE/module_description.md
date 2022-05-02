@@ -1,7 +1,7 @@
 ---
 name: Bug report template
 about: Short description of bug
-title: "[Bug# Version]"
+title: "[Bug#] <Version> <Summary> "
 labels: bug
 assignees: ''
 
