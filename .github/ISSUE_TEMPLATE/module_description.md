@@ -1,7 +1,7 @@
 ---
 name: Module_Description
 about: Short description of bug
-title: "[BugNumber Version]"
+title: "[Bug# Version]"
 labels: bug
 assignees: ''
 
